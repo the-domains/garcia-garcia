@@ -1,7 +1,7 @@
 name: Garcia + Garcia
 favicon: null
-layout_spectrum: 0.8960960956756026
-typography_spectrum: 0.686808099038899
+layout_spectrum: 0.8897
+typography_spectrum: 0.72518
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.7750076004303992
+  brandStrength: 0.5625
   lightness: 0.2776059955358505
   saturation: 0.3993713464587927
   rhythmicContrast: 0.36881888075731695
