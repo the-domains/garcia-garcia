@@ -1,20 +1,4 @@
-name: Garcia + Garcia
-favicon: null
-layout_spectrum: 0.8897
 typography_spectrum: 1
-title: 2 Garcias
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fefefe'
@@ -26,4 +10,20 @@ color:
   lightness: 0.2776059955358505
   saturation: 0.5625
   rhythmicContrast: 0.36881888075731695
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8897
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Garcia + Garcia
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 2 Garcias y 1/2
 purpose: []
